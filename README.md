@@ -1,8 +1,22 @@
-# React + Vite
+# Projeto de Aprendizado em React: Calculadora Simples
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi concebido com o propósito de facilitar o aprendizado de React através do desenvolvimento de uma calculadora simples, porém funcional.
 
-Currently, two official plugins are available:
+## Objetivo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O objetivo deste projeto é proporcionar um ambiente de aprendizado prático para entender os conceitos básicos de React, incluindo componentes, estado e eventos, enquanto desenvolve uma calculadora funcional.
+
+## Funcionalidades
+
+- Implementação de uma interface de usuário simples para a calculadora.
+- Criação de componentes React para os botões e a exibição do resultado.
+- Lógica para realizar operações matemáticas básicas (adição, subtração, multiplicação, divisão).
+- Capacidade de limpar o visor e realizar operações sequenciais.
+
+## Como Usar
+
+1. Clone este repositório para o seu ambiente local.
+2. Navegue até o diretório do projeto e execute `npm install` para instalar as dependências.
+3. Execute `npm run dev` para iniciar o servidor de desenvolvimento React.
+4. Abra o navegador e acesse o endereço fornecido para visualizar a calculadora.
+5. Experimente realizar operações matemáticas e observe o funcionamento da calculadora.
