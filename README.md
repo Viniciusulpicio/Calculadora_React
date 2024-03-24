@@ -20,3 +20,5 @@ O objetivo deste projeto é proporcionar um ambiente de aprendizado prático par
 3. Execute `npm run dev` para iniciar o servidor de desenvolvimento React.
 4. Abra o navegador e acesse o endereço fornecido para visualizar a calculadora.
 5. Experimente realizar operações matemáticas e observe o funcionamento da calculadora.
+
+![image](https://github.com/Viniciusulpicio/Calculadora_React/assets/145928303/bc47d2cc-dcb0-4e57-8ee3-630e89cb8651)
